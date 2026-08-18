@@ -214,11 +214,9 @@ A community-driven platform where students can post, discuss, and resolve academ
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/sudarsanSDA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudarsanSDA)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudarsanSDA)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarsan@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sudarsan.net.in-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sudarsan.net.in)
+[![Telegram](https://img.shields.io/badge/Telegram-@sda__69-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sda_69)
+[![Email](https://img.shields.io/badge/Email-sudarsanjcr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarsanjcr@gmail.com)
 
 <br/><br/>
 
