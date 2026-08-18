@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%AE+Building+the+future%2C+one+commit+at+a+time;%F0%9F%9A%80+Turning+ideas+into+reality+with+code;%F0%9F%A7%A0+AI+%7C+Full-Stack+%7C+Cybersecurity+%7C+Cloud" alt="Typing SVG" />
 </a>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<br/>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sudarsanSDA&label=Profile%20Views&color=a855f7&style=for-the-badge&logo=github" alt="Profile Views"/>
-  <a href="https://github.com/sudarsanSDA?tab=followers">
-    <img src="https://img.shields.io/github/followers/sudarsanSDA?label=Followers&style=for-the-badge&color=6e40c9&logo=github&logoColor=white" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/sudarsanSDA?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-21+-d946ef?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  </a>
-</p>
-
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -219,71 +207,7 @@ A community-driven platform where students can post, discuss, and resolve academ
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudarsanSDA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=d946ef&text_color=c9d1d9&ring_color=a855f7&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=sudarsanSDA&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=d946ef&fire=f472b6&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" alt="GitHub Streak"/>
-</p>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsanSDA&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudarsanSDA&bg_color=0d1117&color=a855f7&line=d946ef&point=f472b6&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<!-- TROPHIES -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sudarsanSDA&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-
-## 💭 Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-
-</div>
-
----
-
-<!-- SPOTIFY / CURRENT STATUS -->
+<!-- SOCIAL LINKS / CONNECT -->
 <div align="center">
 
 ## 🌐 Connect With Me
@@ -295,20 +219,6 @@ A community-driven platform where students can post, discuss, and resolve academ
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudarsanSDA)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarsan@example.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Support My Work
-
-<p>If you find my projects useful, consider giving them a ⭐!</p>
-
-<a href="https://github.com/sudarsanSDA?tab=repositories">
-  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Star Repos"/>
-</a>
 
 <br/><br/>
 
