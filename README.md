@@ -225,11 +225,11 @@ A community-driven platform where students can post, discuss, and resolve academ
 ## 📊 GitHub Analytics
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudarsanSDA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=d946ef&text_color=c9d1d9&ring_color=a855f7" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarsanSDA&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=d946ef&fire=f472b6&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudarsanSDA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=d946ef&text_color=c9d1d9&ring_color=a855f7&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sudarsanSDA&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=d946ef&fire=f472b6&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" alt="GitHub Streak"/>
 </p>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsanSDA&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsanSDA&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
